@@ -1,4 +1,6 @@
-## Hello, I'm Kornel 👋 
+<img src="https://i.imgur.com/mQMxesv.gif">
+
+##
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="10%" height="10%">
 
