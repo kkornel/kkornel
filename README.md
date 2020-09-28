@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/mQMxesv.gif">
+<img src="/hello.gif?raw=true">
 
 ##
 
