@@ -10,9 +10,9 @@ I love building interesting and amazing products that serve a great deal of purp
 
 ## About me
 - 🧐 I'm focused on backend technologies
-- ⚙️ I use ```.js``` daily 
-- 🔨 I'm presently working on [typee](https://github.com/kkornel/typee)
-- 📚 I'm currently learning `Kubernetes` and `TypeScript` 
+- ⚙️ I use ```.ts``` daily 
+- 🔨 I'm presently working as a React Developer
+- 📚 I'm currently learning `Kubernetes`
 - 🎓 Master of Engineering in Computer Science
 - 💬 I'm always happy to help and talk, ask me about anything
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
@@ -20,6 +20,7 @@ I love building interesting and amazing products that serve a great deal of purp
 ## Things I code with:
 
 ### **Backend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
@@ -29,6 +30,7 @@ I love building interesting and amazing products that serve a great deal of purp
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=df8b02)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=de33a6)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -45,5 +47,3 @@ I love building interesting and amazing products that serve a great deal of purp
 
 ### Want to learn
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=326ce5)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=de33a6)
