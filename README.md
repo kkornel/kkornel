@@ -10,7 +10,7 @@ I love building interesting and amazing products that serve a great deal of purp
 
 ## About me
 - 🧐 I'm focused on backend technologies
-- ⚙️ I use ```.ts``` and ```.tsx``` daily 
+- ⚙️ I use ```.ts``` daily 
 - 🔨 I'm presently working as a React Developer
 - 📚 I'm currently learning `Kubernetes`
 - 🎓 Master of Engineering in Computer Science
