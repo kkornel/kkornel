@@ -11,7 +11,7 @@ I love building interesting and amazing products that serve a great deal of purp
 ## About me
 - 🧐 I'm focused on backend technologies
 - ⚙️ I use ```.ts``` daily 
-- 🔨 I'm presently working as a React Developer
+- 🔨 I'm presently working as a TypeScript Developer
 - 📚 I'm currently learning `Kubernetes`
 - 🎓 Master of Engineering in Computer Science
 - 💬 I'm always happy to help and talk, ask me about anything
