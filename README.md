@@ -16,7 +16,7 @@ I love building interesting and amazing products that serve a great deal of purp
 - 🎓 Master of Engineering in Computer Science
 - 💬 I'm always happy to help and talk, ask me about anything
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 🏠 Wish to move to Scandinavia 🇳🇴 / 🇸🇪 / 🇫🇮
+- 🏠 Wish to move to Scandinavia 🇳🇴 / 🇸🇪 / :finland:
 
 ## Things I code with:
 
