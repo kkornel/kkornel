@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="10%" height="10%">
 
 <br/>
-I’m addicted to learning.
+Addicted to learning.
 <br/>
 
 ## About me
