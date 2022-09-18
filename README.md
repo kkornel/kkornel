@@ -14,6 +14,7 @@ Addicted to learning.
 - 🌲 Scandinavian enthusiast 🇳🇴 / 🇸🇪 / 🇫🇮 
 - ⚡️ Huge fan of Harry Potter
 - ☔ Pluviophile
+- 👉 Tea > coffee
 
 ## Things I code with:
 
